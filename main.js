@@ -72,11 +72,3 @@ console.log(`Aylananing yuzasi: ${S}`);
 */
 ////////////Begin-9//////
 ////////////Begin-10//////
-
-// let num = prompt("biror raqam kiriting");
-// let res = Number(num);
-// let t = "3";
-
-// let result = t - 2;
-
-// console.log(result);
